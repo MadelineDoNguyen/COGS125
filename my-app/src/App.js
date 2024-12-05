@@ -4,8 +4,8 @@ import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/Home';
 import About from './components/about/About';
 import Contact from './components/contact/Contact';
-import Resume from './components/resume/Resume';
 import Projects from './components/projects/Projects';
+import Experience from './components/experience/Experience';
 
 function App() {
   return (
@@ -14,8 +14,8 @@ function App() {
     <main className='main'>
       <Home />
       <About />
+      <Experience />
       <Projects />
-      <Resume />
       <Contact />
 
     </main>

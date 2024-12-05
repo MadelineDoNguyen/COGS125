@@ -25,14 +25,14 @@ const Sidebar = () => {
             </li>
 
             <li className="nav__item">
-              <a href="#projects" className="nav__link">
-                <i className="fa-solid fa-briefcase"></i>
+              <a href="#services" className="nav__link">
+                <i className="fa-solid fa-layer-group"></i>
               </a>
             </li>
 
             <li className="nav__item">
-              <a href="#resume" className="nav__link">
-                <i className="fa-solid fa-file"></i>
+              <a href="#work" className="nav__link">
+                <i className="fa-solid fa-briefcase"></i>
               </a>
             </li>
 
