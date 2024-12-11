@@ -8,7 +8,7 @@ const Menu = [
         id: 1,
         image: AHM,
         title: "A Happier Me",
-        category: "Case Study",
+        category: "Project",
         link: "https://drive.google.com/file/d/1d4wj3WaQcR0GXKguXcygt7pxygaCW0MD/view?usp=sharing",
     },
     
@@ -23,9 +23,9 @@ const Menu = [
     {
         id: 3,
         image: Naily,
-        title: "Naily Newsletter (Work In Progress)",
+        title: "Naily Newsletter",
         category: "Project",
-        link: "",
+        link: "https://madelinedonguyen.github.io/naily-newsletter/",
     },
 ];
 

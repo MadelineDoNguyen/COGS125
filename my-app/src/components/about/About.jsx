@@ -13,7 +13,7 @@ const About = () => {
 
         <div className="about__data grid">
           <div className="about__info">
-            <p className="about__description">I am pursuing a Bachelor of Science in Cognitive Science at UC San Diego, specializing in Design & Interaction. I aim to blend artistry with technology to deliver captivating and functional products with seamless user experience. I manage social media for my family's business and express my creativity through nail designs. In my free time, I enjoy cooking with my partner and exploring new cuisines.</p>
+            <p className="about__description">I am a rising senior studying Cognitive Science at UC San Diego, specializing in Design & Interaction. I am driven by the challenge of combining artistry with technology to create products that feel both beautiful and intuitive. Outside of education, I keep my family’s business connected and thriving by managing its social media presence, a role that lets me experiment with fresh visuals and authentic storytelling. I also channel my creativity into designing intricate nail art—my own miniature canvases—and find relaxation and adventure in trying new restaurants, where I can explore new flavors from around the world.</p>
             <a href={Resume} className="btn">Download Resume</a>
           </div>
 
