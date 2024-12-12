@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/COGS125/static/css/main.b05523e2.css",
-    "main.js": "/COGS125/static/js/main.08dfafe3.js",
+    "main.css": "/COGS125/static/css/main.0d587fef.css",
+    "main.js": "/COGS125/static/js/main.ea9ccdd7.js",
     "static/js/453.ed3810f9.chunk.js": "/COGS125/static/js/453.ed3810f9.chunk.js",
     "static/media/Me.jpg": "/COGS125/static/media/Me.15e3ea54af54e73d1922.jpg",
-    "static/media/Resume.pdf": "/COGS125/static/media/Resume.6876827a7b7ae06ab429.pdf",
+    "static/media/ahm.svg": "/COGS125/static/media/ahm.c115c82879919e4f8cba50662a2c8a52.svg",
+    "static/media/Resume.pdf": "/COGS125/static/media/Resume.bf5088c27072d36652c7.pdf",
+    "static/media/NailyLogo.svg": "/COGS125/static/media/NailyLogo.c1c24f7de053f06c76d0eb7106a247e8.svg",
+    "static/media/object-group-solid.svg": "/COGS125/static/media/object-group-solid.c9c4c79c0dad3e471cec6d4ccb3dc4ee.svg",
     "static/media/MN-Logo.svg": "/COGS125/static/media/MN-Logo.dcad570f604b436d52f5fd28347b6874.svg",
+    "static/media/TodoLogo.svg": "/COGS125/static/media/TodoLogo.575c89872c53ecad8e8edbaae64dcede.svg",
+    "static/media/code-solid.svg": "/COGS125/static/media/code-solid.a5408d3e4427bc0246797faa2739b5a7.svg",
     "index.html": "/COGS125/index.html",
-    "main.b05523e2.css.map": "/COGS125/static/css/main.b05523e2.css.map",
-    "main.08dfafe3.js.map": "/COGS125/static/js/main.08dfafe3.js.map",
+    "static/media/magnifying-glass-solid.svg": "/COGS125/static/media/magnifying-glass-solid.aad3cf7061eb480f3811d39703af4013.svg",
+    "main.0d587fef.css.map": "/COGS125/static/css/main.0d587fef.css.map",
+    "main.ea9ccdd7.js.map": "/COGS125/static/js/main.ea9ccdd7.js.map",
     "453.ed3810f9.chunk.js.map": "/COGS125/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b05523e2.css",
-    "static/js/main.08dfafe3.js"
+    "static/css/main.0d587fef.css",
+    "static/js/main.ea9ccdd7.js"
   ]
 }
