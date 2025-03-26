@@ -1,6 +1,7 @@
 import Todo from "../../assets/TodoLogo.svg";
 import Naily from "../../assets/NailyLogo.svg"
 import AHM from "../../assets/ahm.svg";
+import Modo from "../../assets/modo-logo.svg"
 
 
 const Menu = [
@@ -26,6 +27,14 @@ const Menu = [
         title: "Naily Newsletter",
         category: "Project",
         link: "https://madelinedonguyen.github.io/naily-newsletter/",
+    },
+
+    {
+        id: 4,
+        image: Modo,
+        title: "Modo - Modern Medication Management",
+        category: "Project",
+        link: "https://www.figma.com/deck/0i2GKhUiAtVVZzD7ClTEYo/modo-final-presentation?node-id=1-316&viewport=-3117%2C-22%2C0.37&t=cSZ3jC5z5hmWcxut-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
     },
 ];
 
